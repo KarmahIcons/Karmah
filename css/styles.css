@@ -34,8 +34,8 @@
 	.main {
 	  margin: 0px auto;
 	  height: auto;
-		width: 95%;
-		max-width: 800px;
+	  width: 95%;
+	  max-width: 800px;
 	}
 	.container {
 	  margin: 10px auto;
@@ -50,53 +50,45 @@
 	  line-height: 32px;
 	  float: left;
 	  color: #57827B;
-		list-style: inside;
+	  list-style: inside;
 	}
 	.comfort {
 	  margin-top: 40px;
 	  margin-bottom: 40px;
 	}
-
-.comfort2 {
+	.comfort2 {
 	  margin-top: 120px;
 	  margin-bottom: 120px;
 	}
-
-.center{
-	margin-top: 80px;
+	.center {
+	  margin-top: 80px;
 	  margin-bottom: 80px;
-		text-align: center;
-}
-
-.btn{
-	color: #004454 !important;
-	font-size: 1.35rem !important;
-	border-radius: 15px;
-	padding: ;
-	background-color: #39B38C;
-	transition-property: background;
-	transition-duration: 0.3s;
-	transition-timing-function: ease;
-	transition-delay: 0;
-	border: 3px solid #004454;
-	padding-top: 15px;
-	padding-right: 30px;
-	padding-bottom: 15px;
-	padding-left: 30px;
-}
-
-
-.btn:hover {
-	background-color: #306EF0;
-		color: #EDDECE !important;
-		border: 3px solid #306EF0;
-
-
-}
-
-.line{
-	
-	margin-top: 10px;
-	margin-bottom: 10px;
-  border: 1px solid #ABC3B1;	
-}
+	  text-align: center;
+	}
+	.btn {
+	  color: #004454 !important;
+	  font-size: 1.35rem !important;
+	  border-radius: 15px;
+	  padding: ;
+	  background-color: #39B38C;
+	  transition-property: background;
+	  transition-duration: 0.3s;
+	  transition-timing-function: ease;
+	  transition-delay: 0;
+	  border: 3px solid #004454;
+	  padding-top: 15px;
+	  padding-right: 30px;
+	  padding-bottom: 15px;
+	  padding-left: 30px;
+	}
+	.btn:hover {
+	  border-radius: 15px;
+	  background-color: #306EF0;
+	  color: #EDDECE !important;
+	  border: 3px solid #306EF0;
+	}
+	.line {
+	  margin-top: 10px;
+	  margin-bottom: 10px;
+	  border: 1px solid #ABC3B1;
+	}
